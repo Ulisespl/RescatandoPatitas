@@ -1,7 +1,7 @@
 {
-  "name": "Rpt",
+  "name": "Rescatando Patitas",
   "version": "1.0.0",
-  "description": "Sistema para la captura de ropa de trabajo",
+  "description": "Sistema para refugio Rescatando Patitas",
   "main": "app.js",
   "scripts": {
     "start": "sh build.sh",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ulisespl/RopaTrabajo.git"
+    "url": "https://github.com/Ulisespl/RescatandoPatitas.git"
   },
   "keywords": [
     "porteria"
   ],
-  "author": "Carla Sánchez",
+  "author": "Ulises Piña",
   "license": "ISC",
   "devDependencies": {
     "@uppy/core": "^1.11.0",

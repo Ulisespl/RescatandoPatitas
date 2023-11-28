@@ -2,7 +2,7 @@ Sistema para refugio Rescatando Patitas
 
 **CONSTRUCCIÓN DEL PROYECTO**
 
-1.  Repositorio [Git repo](https://github.com/Ulisespl/RopaTrabajo.git)
+1.  Repositorio [Git repo](https://github.com/Ulisespl/RescatandoPatitas.git)
 2.  Instalar las dependencias
 
     > sudo npm install
